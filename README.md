@@ -53,7 +53,7 @@
 -
 
 ## Sergiler
--
+-TİTİA'DAN İİBF'YE 46.YIL SERGİSİ Tarihten İİBF’ ye Bir Köprü Dün, Bugün, Gelecek Fotoğraf Sergisi, Kişisel Sergi, Aralık 2025-Haber- Taka Gazetesi [https://github.com/negizm/Makaleler-Articles/blob/main/Negiz%20M.%2C%20Serbest%20%C3%96.%2C%20Fetvac%C4%B1o%C4%9Flu%20G%C3%B6ral%20%C3%87.%2C%20T%C4%B0T%C4%B0A'DAN%20%C4%B0%C4%B0BF'YE%2046.YIL%20SERG%C4%B0S%C4%B0%20Tarihten%20%C4%B0%C4%B0BF%E2%80%99%20ye%20Bir%20K%C3%B6pr%C3%BC%20D%C3%BCn%2C%20Bug%C3%BCn%2C%20Gelecek%20Foto%C4%9Fraf%20Sergisi%2C%20Ki%C5%9Fisel%20Sergi%2C%20Aral%C4%B1k%202025-Haber-%20Taka%20Gazetesi.pdf]
 
 ## Veri Setleri
 
