@@ -1,11 +1,20 @@
 # Akademik Çalışmalar
 
 ## Kitap Bölümleri
--
+- Karadeniz’in Güneydoğusunda Yeni Bir Güzergâh: TRIPP (Zengezur) Koridoru'na Rusya Perspektifinden Bir Bakış, Karadeniz: 2025 Gelişmeleri Işığında Bölgesel Değerlendirmeler, Özgür Tüfekçi & Fevzi Kırbaşoğlu, Editör, Necmettin Erbakan Üniversitesi Yayınları, Konya, 2026
+- Ekonomik Savaşın Akademik Yansıması: 2022 Ukrayna Krizi Sonrası Rusya’ya Yaptırımlar Üzerine Bibliyometrik Bir İnceleme, Karadeniz: 2024 Gelişmeleri Işığında Bölgesel Değerlendirmeler, Necmettin Erbakan Üniversitesi Yayınları, Konya, ss.453-485, 2025
+- Karadeniz Balıkçılığının Girişimcilik Dinamikleri ve İnovasyon Fırsatları: Trabzon Örneği, Sosyal Bilimlerde Yöntem, Kuram ve Uygulama, Özgür Yayınları, Gaziantep, ss.17-40, 2025
+- Küresel Şirketler ve Batılı Ülkelerin Ekonomik Yaptırımlarına Direnç ve Uyum: Rusya Örneği, Karadeniz: 2023 Gelişmeleri Işığında Bölgesel Değerlendirmeler, Necmettin Erbakan Üniversitesi Yayınları, Konya, ss.271-304, 2024
+- Yeşil Girişimciliğin Karanlık Yönü: Greenwashing, Yönetim ve Organizasyon Alanında Uluslararası Araştırmalar -I, Eğitim Yayınevi, Konya, ss.127-142, 2024
+- The Dark Side of Spirituality and Blind Spot Management in the Workplace, Spirituality Management in the Workplace: New Strategies and Approaches, Emerald Ink Publishing, Leeds, ss.153-172, 2023
+- Rusya Federasyonu’ndaki Kısmi Seferberlik Kararı: İş Dünyası ve İnsan Kaynakları Yönetimi Açısından Bir Değerlendirme, Karadeniz: 2022 Gelişmeleri Işığında Bölgesel Değerlendirmeler, Karadeniz Teknik Üniversitesi Yayınları, Trabzon, ss.516-566, 2023
+- Hukukun Yaygınlaştırılmasına Notlar -I-, Balcı M., Negiz M. (Editör), Adalet Yayınevi, Ankara, 2022
+- Geçmişten Geleceğe Türkiye'de İşletmecilik Okulları, Sosyal, Beşeri Ve İdari Bilimler Alanında Uluslararası Araştırmalar XVIII, Eğitim Kitabevi, Konya, ss.239-266, 2022
+- Bürolarda İletişim, Büro Yönetimi, Atatürk Üniversitesi Açık Öğretim Fakültesi Yayınları, Erzurum, ss.120-140, 2016
+- Bürolarda Toplam Kalite Yönetimi, Büro Yönetimi, Atatürk Üniversitesi Açık Öğretim Fakültesi Yayınları, Erzurum, ss.140-160, 2016
+
 
 ## Makaleler
-
-
 - Vicdan ile Cüzdan Arasında: Pembe Kapitalizm Bağlamında LGBT Temsillerin İş Dünyasındaki Stratejik Konumlanışı [https://github.com/negizm/Makaleler-Articles/blob/main/V%C4%B0CDAN%20%C4%B0LE%20C%C3%9CZDAN%20ARASINDA%20PEMBE%20KAP%C4%B0TAL%C4%B0ZM%20BA%C4%9ELAMINDA%20LGBT%20TEMS%C4%B0LLER%C4%B0N%20%C4%B0%C5%9E%20D%C3%9CNYASINDAK%C4%B0%20STRATEJ%C4%B0K%20KONUMLANI%C5%9EI.pdf]
 
 - İklim Değişikliğinin Güvenlikleştirilmesi: Doğu Karadeniz Bölgesi’nde Kümeleme Analizi [https://github.com/negizm/Makaleler-Articles/blob/main/Do%C4%9Fu%20Karadeniz%20B%C3%B6lgesi%E2%80%99nde%20%C4%B0klim%20De%C4%9Fi%C5%9Fikli%C4%9Finin%20G%C3%BCvenlikle%C5%9Ftirilmesi-%20K%C3%BCmeleme%20Analizi.pdf]
@@ -47,6 +56,65 @@
 - Rus Yükseköğretim Kurumlarında Uygulanan Kalite Yönetim Modelleri ve Türkiye İçin Çıkarımlar, International Conference on Quality in Higher Education (ICQH) , Sakarya, Türkiye, 12 - 14 Aralık 2013, ss.5, (Özet Bildiri)
 - Towards to Excellence in Higher Education Institutions A TQM Model, 11th EBES Conference, Jekaterinburg, Rusya, 12 - 14 Eylül 2013, ss.8, (Özet Bildiri)
 - İnovasyon Çalışmalarında Bir Ülke Analizi: Rusya Örneği, 12. Ulusal İşletmecilik Kongresi, Muğla, Türkiye, 2 - 04 Mayıs 2013, ss.5-15, (Tam Metin Bildiri) 
+
+## Ansiklopedi Maddeleri
+- 
+1. Bölgesel Havayolu
+Negiz M.
+Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8714, 2024  Creative Commons License 
+2. Havayolu İşletmeleri
+Negiz M.
+Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8735, 2024  Creative Commons License  Sürdürülebilir Kalkınma
+3. Recep Yazıcıoğlu
+Negiz M.
+Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8590, 2024  Creative Commons License 
+4. Diplomatik Turizm
+Negiz M.
+Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8598, 2024  Creative Commons License 
+5. Kart Turizmi
+Negiz M.
+Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8577, 2024  Creative Commons License
+
+## Diğer Yayınlar
+- 
+1. Sessizliğin İçinden Bir Kitap: Vali Recep Yazıcıoğlu’nun Liderlik Sırlarını Anlattı
+Negiz M.
+Diğer, ss.1-6, 2026   Creative Commons License  Sürdürülebilir Kalkınma
+2. İşletme Bölümü Mezunları İçin Kariyer Rehberi
+Negiz M.
+Diğer, ss.1-34, 2025   Creative Commons License  Sürdürülebilir Kalkınma
+3. Bilim Tarihinin Tarihi
+Negiz M.
+Sunum, ss.3-11, 2023   Creative Commons License  Sürdürülebilir Kalkınma
+4. Uluslararası Siyaset Duvarında Gölge Oyunu
+Negiz M.
+Diğer, ss.1-28, 2022   Creative Commons License  Sürdürülebilir Kalkınma
+5. Kazak Bilgesi Abay Kunanbayoğlu’dan Ahlâk ve Etik Çağrısı
+Negiz M.
+Diğer, ss.1-7, 2022   Creative Commons License  Sürdürülebilir Kalkınma
+6. Sözün Özü'nde Vali Recep Yazıcıoğlu
+Negiz M.
+Diğer, ss.1-3, 2022   Creative Commons License  Sürdürülebilir Kalkınma
+7. Erzincan Sözlü Tarih Çalışmasında Vali Recep Yazıcıoğlu
+Negiz M.
+Diğer, ss.1-34, 2022   Creative Commons License  Sürdürülebilir Kalkınma
+8. Türk İşletmecilik Eğitiminde Bir Kilometre Taşı: Heybeliada Elen Ticaret Mektebi
+Negiz M.
+Diğer, ss.1-6, 2022   Creative Commons License 
+9. Çeviri: "ÜLKELERİN ŞİRKETLERE KARŞI OLAN SAVAŞI BAŞLADI" | Война государств против корпораций началась
+Negiz M.
+Diğer, ss.1-3, 2021   Creative Commons License Sürdürülebilir Kalkınma
+10. Beyaz Zambaklar Ülkesi ve Bir Mikroskopun Hikâyesi
+Negiz M.
+Diğer, ss.1-5, 2021   Creative Commons License  Sürdürülebilir Kalkınma
+11. Türkiye'de İşletmecilik Okulları: Tarihsel Gelişim Süreci Işığında Bir Gelecek Perspektifi
+Negiz M.
+Diğer, ss.6-28, 2020   Creative Commons License  Sürdürülebilir Kalkınma
+12. Karanlık Liderlik Kavramı ve Nitel Bir İnceleme
+Negiz M.
+Diğer, ss.4-23, 2018   Creative Commons License  Sürdürülebilir Kalkınma
+13. Kazakça Öğreniyorum: Kelimeler, Dilbilgisi, Diyaloglar
+Negiz M.
 
 
 ## Projeler
