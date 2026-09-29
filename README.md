@@ -58,11 +58,11 @@
 - İnovasyon Çalışmalarında Bir Ülke Analizi: Rusya Örneği, 12. Ulusal İşletmecilik Kongresi, Muğla, Türkiye, 2 - 04 Mayıs 2013, ss.5-15, (Tam Metin Bildiri) 
 
 ## Ansiklopedi Maddeleri
-- Bölgesel Havayolu, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8714, 2024
-- Havayolu İşletmeleri, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8735, 2024
-- Recep Yazıcıoğlu, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8590, 2024  
-- Diplomatik Turizm, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8598, 2024
-- Kart Turizmi, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8577, 2024  
+- Bölgesel Havayolu, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8714, 2024 [https://github.com/negizm/Makaleler-Articles/blob/main/madde-bolgesel-havayolu.pdf]
+- Havayolu İşletmeleri, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8735, 2024 [https://github.com/negizm/Makaleler-Articles/blob/main/madde-havayolu-isletmeleri.pdf]
+- Recep Yazıcıoğlu, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8590, 2024  [https://github.com/negizm/Makaleler-Articles/blob/main/madde-recep-yazicioglu.pdf]
+- Diplomatik Turizm, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8598, 2024 [https://github.com/negizm/Makaleler-Articles/blob/main/madde-diplomatik-turizm%20(1).pdf]
+- Kart Turizmi, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8577, 2024  [https://github.com/negizm/Makaleler-Articles/blob/main/madde-kart-turizmi%20(1).pdf]
 
 ## Diğer Yayınlar
 - Sessizliğin İçinden Bir Kitap: Vali Recep Yazıcıoğlu’nun Liderlik Sırlarını Anlattı, ss.1-6, 2026
@@ -77,7 +77,7 @@
 -Beyaz Zambaklar Ülkesi ve Bir Mikroskopun Hikâyesi,ss.1-5, 2021  
 -Türkiye'de İşletmecilik Okulları: Tarihsel Gelişim Süreci Işığında Bir Gelecek Perspektifi, ss.6-28, 2020  
 -Karanlık Liderlik Kavramı ve Nitel Bir İnceleme, ss.4-23, 2018   
--Kazakça Öğreniyorum: Kelimeler, Dilbilgisi, Diyaloglar.
+-Kazakça Öğreniyorum: Kelimeler, Dilbilgisi, Diyaloglar.  [https://github.com/negizm/Makaleler-Articles/blob/main/Kazakca_Ogreniyorum_Kitabi-Kelimeler-Dilbilgisi-Diyaloglar-Muhammet_Negiz-2016-114s.pdf]
 
 
 ## Projeler
