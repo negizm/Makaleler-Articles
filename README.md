@@ -65,45 +65,19 @@
 - Kart Turizmi, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8577, 2024  
 
 ## Diğer Yayınlar
-- 
-1. Sessizliğin İçinden Bir Kitap: Vali Recep Yazıcıoğlu’nun Liderlik Sırlarını Anlattı
-Negiz M.
-Diğer, ss.1-6, 2026   Creative Commons License  Sürdürülebilir Kalkınma
-2. İşletme Bölümü Mezunları İçin Kariyer Rehberi
-Negiz M.
-Diğer, ss.1-34, 2025   Creative Commons License  Sürdürülebilir Kalkınma
-3. Bilim Tarihinin Tarihi
-Negiz M.
-Sunum, ss.3-11, 2023   Creative Commons License  Sürdürülebilir Kalkınma
-4. Uluslararası Siyaset Duvarında Gölge Oyunu
-Negiz M.
-Diğer, ss.1-28, 2022   Creative Commons License  Sürdürülebilir Kalkınma
-5. Kazak Bilgesi Abay Kunanbayoğlu’dan Ahlâk ve Etik Çağrısı
-Negiz M.
-Diğer, ss.1-7, 2022   Creative Commons License  Sürdürülebilir Kalkınma
-6. Sözün Özü'nde Vali Recep Yazıcıoğlu
-Negiz M.
-Diğer, ss.1-3, 2022   Creative Commons License  Sürdürülebilir Kalkınma
-7. Erzincan Sözlü Tarih Çalışmasında Vali Recep Yazıcıoğlu
-Negiz M.
-Diğer, ss.1-34, 2022   Creative Commons License  Sürdürülebilir Kalkınma
-8. Türk İşletmecilik Eğitiminde Bir Kilometre Taşı: Heybeliada Elen Ticaret Mektebi
-Negiz M.
-Diğer, ss.1-6, 2022   Creative Commons License 
-9. Çeviri: "ÜLKELERİN ŞİRKETLERE KARŞI OLAN SAVAŞI BAŞLADI" | Война государств против корпораций началась
-Negiz M.
-Diğer, ss.1-3, 2021   Creative Commons License Sürdürülebilir Kalkınma
-10. Beyaz Zambaklar Ülkesi ve Bir Mikroskopun Hikâyesi
-Negiz M.
-Diğer, ss.1-5, 2021   Creative Commons License  Sürdürülebilir Kalkınma
-11. Türkiye'de İşletmecilik Okulları: Tarihsel Gelişim Süreci Işığında Bir Gelecek Perspektifi
-Negiz M.
-Diğer, ss.6-28, 2020   Creative Commons License  Sürdürülebilir Kalkınma
-12. Karanlık Liderlik Kavramı ve Nitel Bir İnceleme
-Negiz M.
-Diğer, ss.4-23, 2018   Creative Commons License  Sürdürülebilir Kalkınma
-13. Kazakça Öğreniyorum: Kelimeler, Dilbilgisi, Diyaloglar
-Negiz M.
+- Sessizliğin İçinden Bir Kitap: Vali Recep Yazıcıoğlu’nun Liderlik Sırlarını Anlattı, ss.1-6, 2026
+- İşletme Bölümü Mezunları İçin Kariyer Rehberi, ss.1-34, 2025
+- Bilim Tarihinin Tarihi, Sunum, ss.3-11, 2023
+- Uluslararası Siyaset Duvarında Gölge Oyunu, ss.1-28, 2022
+- Kazak Bilgesi Abay Kunanbayoğlu’dan Ahlâk ve Etik Çağrısı, ss.1-7, 2022
+- Sözün Özü'nde Vali Recep Yazıcıoğlu, ss.1-3, 2022
+- Erzincan Sözlü Tarih Çalışmasında Vali Recep Yazıcıoğlu, ss.1-34, 2022   
+-Türk İşletmecilik Eğitiminde Bir Kilometre Taşı: Heybeliada Elen Ticaret Mektebi, ss.1-6, 2022
+-Çeviri: "ÜLKELERİN ŞİRKETLERE KARŞI OLAN SAVAŞI BAŞLADI" | Война государств против корпораций началась, ss.1-3, 2021
+-Beyaz Zambaklar Ülkesi ve Bir Mikroskopun Hikâyesi,ss.1-5, 2021  
+-Türkiye'de İşletmecilik Okulları: Tarihsel Gelişim Süreci Işığında Bir Gelecek Perspektifi, ss.6-28, 2020  
+-Karanlık Liderlik Kavramı ve Nitel Bir İnceleme, ss.4-23, 2018   
+-Kazakça Öğreniyorum: Kelimeler, Dilbilgisi, Diyaloglar.
 
 
 ## Projeler
