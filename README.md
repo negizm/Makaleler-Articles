@@ -58,22 +58,11 @@
 - İnovasyon Çalışmalarında Bir Ülke Analizi: Rusya Örneği, 12. Ulusal İşletmecilik Kongresi, Muğla, Türkiye, 2 - 04 Mayıs 2013, ss.5-15, (Tam Metin Bildiri) 
 
 ## Ansiklopedi Maddeleri
-- 
-1. Bölgesel Havayolu
-Negiz M.
-Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8714, 2024  Creative Commons License 
-2. Havayolu İşletmeleri
-Negiz M.
-Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8735, 2024  Creative Commons License  Sürdürülebilir Kalkınma
-3. Recep Yazıcıoğlu
-Negiz M.
-Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8590, 2024  Creative Commons License 
-4. Diplomatik Turizm
-Negiz M.
-Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8598, 2024  Creative Commons License 
-5. Kart Turizmi
-Negiz M.
-Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8577, 2024  Creative Commons License
+- Bölgesel Havayolu, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8714, 2024
+- Havayolu İşletmeleri, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8735, 2024
+- Recep Yazıcıoğlu, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8590, 2024  
+- Diplomatik Turizm, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8598, 2024
+- Kart Turizmi, Online Türkiye Turizm Ansiklopedisi, Kozak, N. (Editör), ss.8577, 2024  
 
 ## Diğer Yayınlar
 - 
